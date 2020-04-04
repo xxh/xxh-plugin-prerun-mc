@@ -1,4 +1,4 @@
-Midnight Commander (MC) prerun xxh plugin. The plugin creates `~/.config/mc/ini` if it is not exists.
+[Midnight Commander](https://en.wikipedia.org/wiki/Midnight_Commander) (mc) prerun xxh plugin. The plugin creates `~/.config/mc/ini` if it is not exists.
 
 The plugin ini file difference from MC default:
 ```
