@@ -17,7 +17,6 @@ filepos_max_saved_entries=1024
 From xxh repo:
 ```
 xxh +I xxh-plugin-prerun-mc
-xxh yourhost +s bash-zero +if
 ```
 From any repo:
 ```
