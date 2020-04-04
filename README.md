@@ -21,6 +21,6 @@ From any repo:
 xxh +I xxh-plugin-prerun-mc+git+https://github.com/xxh/xxh-plugin-prerun-mc
 ```    
 Connect:
-``````
+```
 xxh yourhost +if
 ```
