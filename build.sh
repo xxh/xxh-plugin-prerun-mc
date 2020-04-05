@@ -16,7 +16,7 @@ done
 rm -rf $build_dir
 mkdir -p $build_dir
 
-for f in pluginrc*.sh mc_ini
+for f in *prerun.sh mc_ini
 do
     cp $CDIR/$f $build_dir/
 done
